@@ -32,7 +32,7 @@ Billify Generator is a web application built with Vite, React, shadcn-ui, and Ta
    ```sh
    npm run dev
    ```
-   Open the URL shown in the terminal (usually [http://localhost:5173](http://localhost:5173)).
+   Open the URL shown in the terminal http://localhost:8080/
 
 ### Usage
 
@@ -52,6 +52,3 @@ Billify Generator is a web application built with Vite, React, shadcn-ui, and Ta
 - shadcn-ui
 - Tailwind CSS
 
-## Author
-
-GPT Engineer & contributors
