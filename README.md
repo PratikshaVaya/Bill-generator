@@ -13,7 +13,7 @@ Billify Generator is a web application built with Vite, React, shadcn-ui, and Ta
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) and npm installed
+- [Node.js](https://nodejs.org/) and npm installed.
 
 ### Installation
 
